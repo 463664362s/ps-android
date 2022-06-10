@@ -5,6 +5,7 @@ Atividade Semestral de Hybrid Mobile App Development
 # Integrantes
 
 **Nathan Pagliari Augusto**
+
 **João Victor Deziderio**
 
 ## Objetivo

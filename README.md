@@ -24,4 +24,4 @@ Quando o usuário clicar no botão Limpar, o app deve limpar os valores dos camp
 
 ## Exemplo
 
-<img src="/exemplo.jpg" width="550">
+<img src="/Exemplo.jpg" width="550">

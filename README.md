@@ -1,4 +1,4 @@
-# PS - Android
+# App para validação de visitantes
 
 Atividade Semestral de Hybrid Mobile App Development
 
@@ -10,7 +10,7 @@ Atividade Semestral de Hybrid Mobile App Development
 
 ## Objetivo
 
-Desenvolver um App para validar se um usuario estara autorizado ou não
+Desenvolver um App para determinar visitantes autorizados e não autorizados
 
 ## Regras 
 
@@ -23,6 +23,9 @@ Ao clicar no botão Não Autorizar o app deve apresentar uma mensagem, em vermel
 Se o usuário não informar um nome e clicar no botão Solicitar Autorização o app deve apresentar uma mensagem de erro em um Alert (Figura 5).
 Quando o usuário clicar no botão Limpar, o app deve limpar os valores dos campos de entrada e de texto, retornando para o estado inicial (Figura 1).
 
+
 ## Exemplo
 
-<img src="https://github.com/Nathan-PA/ps-android/blob/c4e63ee9f614ad2ae52c019c107efc5b36a19706/Exemplo.png" width="550">
+<p align="center">
+<img test-align: center src="https://github.com/Nathan-PA/ps-android/blob/c4e63ee9f614ad2ae52c019c107efc5b36a19706/Exemplo.png" width="550">
+</p>

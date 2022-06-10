@@ -25,4 +25,4 @@ Quando o usuário clicar no botão Limpar, o app deve limpar os valores dos camp
 
 ## Exemplo
 
-<img src="/Exemplo.jpg" width="550">
+<img src="https://github.com/Nathan-PA/ps-android/blob/c4e63ee9f614ad2ae52c019c107efc5b36a19706/Exemplo.png" width="550">
